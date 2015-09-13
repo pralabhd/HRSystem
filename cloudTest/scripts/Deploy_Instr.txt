@@ -1,3 +1,7 @@
+Execute following scripts in this directory:
+
+C:\workspace\HRSystem\cloudTest\scripts
+
 1. Create_Insert_Person
 2. Create_Insert_Address
 3. Create_Insert_Salary
