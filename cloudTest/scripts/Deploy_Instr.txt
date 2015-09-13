@@ -5,3 +5,5 @@ C:\workspace\HRSystem\cloudTest\scripts
 1. Create_Insert_Person
 2. Create_Insert_Address
 3. Create_Insert_Salary
+4. Person_Details_View
+5. Insert Procedure for HR
