@@ -1,4 +1,4 @@
-Drop View Person_Details_View;
+Drop View if exists Person_Details_View;
 
 CREATE VIEW Person_Details_View AS
 SELECT Person.person_id, Person.first_name, Person.last_name, Salary.salary, Salary.eff_date,
